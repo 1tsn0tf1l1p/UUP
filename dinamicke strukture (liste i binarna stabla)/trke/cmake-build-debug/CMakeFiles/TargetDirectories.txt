@@ -1,0 +1,3 @@
+C:/Users/Filip/Desktop/RAF/RAF/UUP/Liste/trke/cmake-build-debug/CMakeFiles/trke.dir
+C:/Users/Filip/Desktop/RAF/RAF/UUP/Liste/trke/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Filip/Desktop/RAF/RAF/UUP/Liste/trke/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+# ninja log v5
+1	138	7279003608605386	CMakeFiles/dijeta.dir/main.c.obj	e4a8e4e6d7e50084
+3	135	7279003781116089	CMakeFiles/dijeta.dir/main.c.obj	e4a8e4e6d7e50084
+136	264	7279003782366381	dijeta.exe	e9b87eeb6f1e99a3
+3	124	7279004868053953	CMakeFiles/dijeta.dir/main.c.obj	e4a8e4e6d7e50084
+124	254	7279004869324230	dijeta.exe	e9b87eeb6f1e99a3
+2	121	7279005233454398	CMakeFiles/dijeta.dir/main.c.obj	e4a8e4e6d7e50084
+122	250	7279005234694671	dijeta.exe	e9b87eeb6f1e99a3
+3	150	7279013171849345	CMakeFiles/dijeta.dir/main.c.obj	e4a8e4e6d7e50084
+150	283	7279013173139621	dijeta.exe	e9b87eeb6f1e99a3
+3	158	7279107157740839	CMakeFiles/dijeta.dir/main.c.obj	e4a8e4e6d7e50084
+159	301	7279107159131153	dijeta.exe	e9b87eeb6f1e99a3

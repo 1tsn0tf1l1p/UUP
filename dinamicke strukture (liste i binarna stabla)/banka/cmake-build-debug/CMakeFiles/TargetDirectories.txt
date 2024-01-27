@@ -1,0 +1,3 @@
+C:/Users/Filip/Desktop/RAF/RAF/UUP/Liste/banka/cmake-build-debug/CMakeFiles/banka.dir
+C:/Users/Filip/Desktop/RAF/RAF/UUP/Liste/banka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Filip/Desktop/RAF/RAF/UUP/Liste/banka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
